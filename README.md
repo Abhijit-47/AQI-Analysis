@@ -68,11 +68,6 @@ The goal is to turn complex environmental data into actionable insights that can
 
 ---
 
-## 🎥 Video Presentation
-Watch the full dashboard walkthrough: [YouTube Link](https://your-video-link)
-
----
-
 ## 📬 Contact
 **Author:** Abhijit Kadam  
 **LinkedIn:** www.linkedin.com/in/abhijitk47  
