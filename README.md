@@ -1,6 +1,7 @@
 # India AQI Analysis – Power BI Dashboard
 
 ## 📌 Overview
+![Landing Page](screenshots/overview.png)
 This project analyzes India's Air Quality Index (AQI) trends and their connection to health, economy, and EV adoption.  
 Using multiple datasets, the dashboard provides insights into:
 - National & city-level AQI patterns
