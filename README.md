@@ -75,5 +75,5 @@ Watch the full dashboard walkthrough: [YouTube Link](https://your-video-link)
 
 ## 📬 Contact
 **Author:** Abhijit Kadam  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-**Email:** your.email@example.com
+**LinkedIn:** www.linkedin.com/in/abhijitk47  
+**Email:** kadam.abhijitp@gmail.com
