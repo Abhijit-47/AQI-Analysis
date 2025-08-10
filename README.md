@@ -60,11 +60,11 @@ The goal is to turn complex environmental data into actionable insights that can
 ---
 
 ## 📷 Dashboard Preview
-![Overview Page](screenshots/overview_page.png)
-![Priority Areas](screenshots/priority_page.png)
-![AQI Insights](screenshots/insight_page.png)
-![EV Adaptation](screenshots/ev_page.png)
-![Extra Insights](screenshots/extra_page.png)
+![Overview Page](overview_page.png)
+![Priority Areas](priority_page.png)
+![AQI Insights](insight_page.png)
+![EV Adaptation](ev_page.png)
+![Extra Insights](extra_page.png)
 
 ---
 
